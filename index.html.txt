@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Food Store</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Food Store</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Menu</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </nav>
+    <section id="menu">
+        <h2>Menu</h2>
+        <!-- Food items will be added here dynamically using JavaScript -->
+    </section>
+    <footer>
+        &copy; 2023 Food Store
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
+
